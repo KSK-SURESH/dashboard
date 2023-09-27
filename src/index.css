@@ -1,0 +1,18 @@
+body {
+  margin: 0px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+:where(.css-dev-only-do-not-override-1ck3jst).ant-form-item
+  .ant-form-item-label
+  > label::after {
+  margin-inline-end: 15px !important;
+}
+a.logo img {
+  width: 100%;
+}
+form#customized_form_controls {
+  text-align: center;
+}
+.ant-layout.ant-layout-has-sider.css-dev-only-do-not-override-1ck3jst {
+  height: auto;
+}
